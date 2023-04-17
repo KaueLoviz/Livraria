@@ -6,7 +6,7 @@ Projeto interdisciplinar II - Livraria | Crud | Array List
 
 ⚠️ O arquivo do Livraria esta zipado em .rar ⚠️
 
-❗ Rodar via Eclipse IDE (versão mais atual) ❗
+❗ Rodar via Eclipse IDE ( versão mais atual ) ❗
 
 
 ```bash
