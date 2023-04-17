@@ -1,12 +1,21 @@
 ![Logo](logo.png)
-# Livravia 
+# Livravia 📚
 
 
 Projeto interdisciplinar II - Livraria | Crud | Array List
 
+⚠️ O arquivo do Livraria esta zipado em .rar ⚠️
 
-## Author🙋‍♂️
+❗ Rodar via eclipse (versão mais atual) ❗
+
+
+```bash
+Importar o projeto no eclipse
+```
+
+# Authors🙋‍♂️
 - [@Kauê](https://github.com/KaueLoviz)
+- [@Lucas](https://github.com/Lucascuca)
 
  
 ## Tech Stack📝
