@@ -21,7 +21,7 @@ Importar o projeto no Eclipse IDE
 - [@Kauê](https://github.com/KaueLoviz)
 - [@Lucas](https://github.com/Lucascuca)
 - [@Camila](https://github.com/Cmilacs)
-
+- [@Thainara](https://github.com/Tha-inara)
  
 ## Tech Stack📝
 **Back-end:** Java.
