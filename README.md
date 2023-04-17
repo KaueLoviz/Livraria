@@ -20,6 +20,7 @@ Importar o projeto no Eclipse IDE
 # Authors🙋‍♂️
 - [@Kauê](https://github.com/KaueLoviz)
 - [@Lucas](https://github.com/Lucascuca)
+- [@Camila](https://github.com/Cmilacs)
 
  
 ## Tech Stack📝
