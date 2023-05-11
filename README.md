@@ -14,7 +14,7 @@ Projeto interdisciplinar II - Livraria | Crud | Array List
 
 https://www.eclipse.org/downloads/ 📤
 
-Importar o projeto no Eclipse IDE
+Abrir o projeto "Livraria" no Eclipse IDE
 ```
 
 # Authors🙋‍♂️
