@@ -8,6 +8,10 @@ Projeto interdisciplinar II - Livraria | Crud | Array List
 
 ❗ Rodar via Eclipse IDE ( versão mais atual ) ❗
 
+🌐 O sistema conta com validaçãop de LOGIN para Administrador a senha é adm@123 e para os usuários o acesso é lioberado sem senha.
+
+⚙️ Administradores tem funções e ações a mais no sistema.
+
 
 ```bash
 # Site para download Eclipse IDE
